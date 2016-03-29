@@ -1,0 +1,67 @@
+body {
+  background-color: #F0F0F0;
+}
+
+li {
+  display: inline;
+  float: left;
+  padding: 0 15px;
+}
+
+.navbarbox {
+  padding: 5px 1px;
+  background-color: lightgrey;
+}
+
+.searchimage {
+  padding: 0 0 0 40%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.redbar {
+  background-color: red;
+  margin: 0px 100px;
+  padding: 3px;
+}
+
+.headerdiv {
+  display: table;
+  margin: 0 auto;
+}
+
+.forheader {
+  display: table;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.floatimage {
+  padding: 5px;
+  float: left;
+}
+
+.picturediv {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.textdiv {
+  text-align: center;
+  clear: both;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.flex1 {
+  -webkit-flex: 1;
+  flex: 1;
+}
+
+.column1 {
+  float: left;
+}
