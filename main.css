@@ -9,8 +9,9 @@ li {
 }
 
 .navbarbox {
-  padding: 5px 1px;
+  width: 100%;
   background-color: lightgrey;
+  position: fixed;
 }
 
 .searchimage {
@@ -30,6 +31,7 @@ li {
 .headerdiv {
   display: table;
   margin: 0 auto;
+  padding: 100px 0px 20px 0px;
 }
 
 .forheader {
@@ -60,6 +62,7 @@ li {
 .flex1 {
   -webkit-flex: 1;
   flex: 1;
+  padding: 5px;
 }
 
 .column1 {
